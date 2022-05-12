@@ -12,7 +12,7 @@
     Personal website showcasing my skills and latest projects!    
     <br />
     <br />
-    :round_pushpin:<a href="https://myportfolio-raushan.vercel.app/">View Demo</a>
+    :round_pushpin:<a href="https://raushan-portfolio-new.vercel.app/">View Demo</a>
   </p>
 </p>
 
@@ -81,7 +81,7 @@ Follow these steps to get a local copy up and running.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/raushanapp/myportfolio_raushan.git
+   git clone https://github.com/raushanapp/raushan-portfolio-new.git
    ```
 2. Install NPM packages
    ```sh
@@ -95,7 +95,7 @@ Follow these steps to get a local copy up and running.
 <!-- USAGE EXAMPLES -->
 ## Usage :mag:
 
-:round_pushpin:<a href="https://myportfolio-raushan.vercel.app/">View Live Demo Here!</a>
+:round_pushpin:<a href="https://raushan-portfolio-new.vercel.app/">View Live Demo Here!</a>
 <br/>
 [![Portfolio gif][portfolio-gif]](src/Assets/img/gif.gif)
 
@@ -107,7 +107,7 @@ Follow these steps to get a local copy up and running.
 
 :e-mail: sraushan890@gmail.com
 
-Project Link: [https://myportfolio-raushan.vercel.app/](https://myportfolio-raushan.vercel.app/)
+Project Link: [https://raushan-portfolio-new.vercel.app/](https://raushan-portfolio-new.vercel.app/)
 
 
 
